@@ -1,0 +1,17 @@
+{
+  "name": "semantic-release",
+  "version": "0.0.0-development",
+  "main": "dist/index.js",
+  "repository": "git@github.com:barrerajulio/semantic-release-lab.git",
+  "author": "Julio César Barrera Andrade <barreraandradejulio@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.0",
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.0.4"
+  }
+}
